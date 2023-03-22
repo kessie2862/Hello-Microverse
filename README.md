@@ -127,7 +127,6 @@ Clone this repository to your desired folder.
 
 Example commands:
 
-
   **cd my-folder**
   **git clone git@github.com:myaccount/my-project.git**
 
@@ -137,21 +136,15 @@ Example command:
 
    **touch index.html**
 
-
-
 ### Create a branch
 
 To create a branch and switch to it, execute the following command:
 
-Example command:
-
-  **git checkout -b name-of-branch**
+Example command: **git checkout -b name-of-branch**
 
 Check whether you're currently in the new branch:
 
-Example command:
-
-  **git branch**
+Example command: **git branch**
 
 
 ### Make changes
@@ -160,11 +153,12 @@ Now you can make the changes you want in the new branch
 
 ### Add, Commit and Push your changes. 
 
-Example command to push changes:
-
-  **git push -u origin name-of-branch**
+Example command to push changes: **git push -u origin name-of-branch**
   
 Visit your repo on github. Add a descriptive title and comments and click on **Create pull request** button.
+
+![pull-request](https://user-images.githubusercontent.com/97234029/226851031-3697492a-367e-4ee2-ae3b-e1cb4ad2cc2e.jpg)
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
