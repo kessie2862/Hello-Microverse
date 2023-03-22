@@ -144,7 +144,7 @@ Example command:
 
 ### Create a branch
 
-To rcreate a branch and switch to it, execute the following command:
+To create a branch and switch to it, execute the following command:
 
 <!--
 Example command:
