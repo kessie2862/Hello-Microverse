@@ -132,9 +132,7 @@ Example commands:
 
 Create your files in your add your code:
 
-Example command:
-
-   **touch index.html**
+Example command: **touch index.html**
 
 ### Create a branch
 
