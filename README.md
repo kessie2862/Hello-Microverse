@@ -125,48 +125,46 @@ In order to start this project, you need to be familiar with basic **git command
 
 Clone this repository to your desired folder.
 
-<!--
 Example commands:
 
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
+
+  **cd my-folder**
+  **git clone git@github.com:myaccount/my-project.git**
 
 Create your files in your add your code:
 
 Example command:
 
-```sh
-   touch index.html
-```
+   **touch index.html**
+
 
 
 ### Create a branch
 
 To create a branch and switch to it, execute the following command:
 
-
 Example command:
 
-```sh
-  git checkout -b **name-of-branch**
-```
-
+  **git checkout -b name-of-branch**
 
 Check whether you're currently in the new branch:
 
-
 Example command:
 
-```sh
-  git branch
-```
+  **git branch**
 
 
-### Deployment
+### Make changes
 
 Now you can make the changes you want in the new branch
+
+### Add, Commit and Push your changes. 
+
+Example command to push changes:
+
+  **git push -u origin name-of-branch**
+  
+Visit your repo on github. Add a descriptive title and comments and click on **Create pull request** button.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
