@@ -140,29 +140,29 @@ Example command:
 ```sh
    touch index.html
 ```
---->
+
 
 ### Create a branch
 
 To create a branch and switch to it, execute the following command:
 
-<!--
+
 Example command:
 
 ```sh
   git checkout -b **name-of-branch**
 ```
---->
+
 
 Check whether you're currently in the new branch:
 
-<!--
+
 Example command:
 
 ```sh
   git branch
 ```
---->
+
 
 ### Deployment
 
